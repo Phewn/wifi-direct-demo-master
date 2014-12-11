@@ -1,0 +1,1 @@
+/Users/oliver/AndroidStudioProjects/wifi-direct-demo-master1/app/build/intermediates/classes/debug
